@@ -1,0 +1,16 @@
+{
+  "name": "Why Was My Bankruptcy Dismissed? [2026 Guide]",
+  "short_name": "whywasmybankruptcydismissed.com",
+  "description": "Why Was My Bankruptcy Dismissed? [2026 Guide]",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
