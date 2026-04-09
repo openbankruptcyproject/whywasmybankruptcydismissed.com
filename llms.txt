@@ -1,0 +1,21 @@
+# Why Was My Bankruptcy Dismissed? -- Common Reasons [2026]
+> Why was your bankruptcy dismissed? Missed payments, incomplete forms, bad faith, and means test failure. How to fix it and refile. ...
+
+## About
+whywasmybankruptcydismissed.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Why Was My Bankruptcy Dismissed? -- Common Reasons: https://whywasmybankruptcydismissed.com/
+- Common Reasons for Bankruptcy Dismissal: https://whywasmybankruptcydismissed.com/common-reasons.html
+- Refiling Bankruptcy After Dismissal: https://whywasmybankruptcydismissed.com/refiling.html
+- What Bankruptcy Dismissal Means for Your Debts: https://whywasmybankruptcydismissed.com/what-dismissal-means.html
+- How to Prevent Your Bankruptcy from Being Dismissed: https://whywasmybankruptcydismissed.com/preventing-dismissal.html
+- Chapter 13 Dismissal: Causes and Solutions: https://whywasmybankruptcydismissed.com/chapter-13-dismissal.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
