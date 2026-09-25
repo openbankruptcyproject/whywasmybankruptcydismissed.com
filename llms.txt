@@ -1,19 +1,44 @@
 # Why Was My Bankruptcy Dismissed? - Common Reasons [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Why was your bankruptcy dismissed? Missed payments, incomplete forms, bad faith, and means test failure. How to fix it and refile. ...
+> Why was your bankruptcy dismissed? Missed payments, incomplete forms, bad faith, and means test failure. How to fix it and refile.
 
 ## About
 whywasmybankruptcydismissed.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Chapter 13 Dismissal: Causes and Solutions: https://whywasmybankruptcydismissed.com/chapter-13-dismissal.html
-- Common Reasons for Bankruptcy Dismissal: https://whywasmybankruptcydismissed.com/common-reasons.html
+- Chapter 13 Dismissal Causes [2026]: 11 USC 1307 Plan Default and Trustee Motion Procedure: https://whywasmybankruptcydismissed.com/chapter-13-dismissal.html
+- Common Bankruptcy Dismissal Reasons [2026]: 11 USC 707, 1112, and 1307 Failure Modes: https://whywasmybankruptcydismissed.com/common-reasons.html
 - Why Was My Bankruptcy Dismissed? - Common Reasons: https://whywasmybankruptcydismissed.com/
-- How to Prevent Your Bankruptcy from Being Dismissed: https://whywasmybankruptcydismissed.com/preventing-dismissal.html
-- Refiling Bankruptcy After Dismissal: https://whywasmybankruptcydismissed.com/refiling.html
-- What Bankruptcy Dismissal Means for Your Debts: https://whywasmybankruptcydismissed.com/what-dismissal-means.html
+- Preventing Bankruptcy Dismissal [2026]: 11 USC 521 Deadlines and 1307(c) Payment Discipline: https://whywasmybankruptcydismissed.com/preventing-dismissal.html
+- Refiling Bankruptcy After Dismissal [2026]: 11 USC 109(g) 180-Day Bar and Stay Limits: https://whywasmybankruptcydismissed.com/refiling.html
+- What Bankruptcy Dismissal Means for Your Debts [2026]: Stay Lifts Under 11 USC 362(c)(2): https://whywasmybankruptcydismissed.com/what-dismissal-means.html
 - Privacy Policy: https://whywasmybankruptcydismissed.com/privacy.html
+- About whywasmybankruptcydismissed.com: https://whywasmybankruptcydismissed.com/about.html
+- Binary-Forcing Notice with Conditional Variants | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/binary-forcing-notice.html
+- Reserved-Instrument Discipline (Variants A through E) | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/reserved-instrument-discipline.html
+- Zugzwang Net Architecture | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/zugzwang-net-architecture.html
+- Fraud-by-Accumulation Framework | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/fraud-by-accumulation-framework.html
+- Vague Adverse Characterization Pattern Catalog | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/vague-adverse-characterization-pattern.html
+- Documentary-Anchoring Discipline | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/documentary-anchoring-discipline.html
+- Channel-Independent Escalation Discipline | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/channel-independent-escalation.html
+- UPL Guardrail with Counsel-Gated Federal Channel Routing | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/upl-guardrail-counsel-gated-routing.html
+- Counsel-Readability Standard | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/counsel-readability-standard.html
+- Exemplar-Case-for-AI-in-Law Positioning | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/exemplar-case-for-ai-in-law.html
+- Five-Tier Graduated Punishment Ladder | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/five-tier-graduated-punishment-ladder.html
+- Soft Documentary Trap | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/soft-documentary-trap.html
+- Category-Substitution Refusal Pattern Detection | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/category-substitution-refusal-pattern.html
+- Disclosed-Facts + Opinion-from-the-Record Structure | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/disclosed-facts-opinion-from-record.html
+- CFO-Incentive Cross-Case Outreach Framework | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/cfo-incentive-cross-case-outreach.html
+- Adversary Public-Statement Rebuke Structure | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/adversary-public-statement-rebuke.html
+- Hold Posture as Information Warfare | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/hold-posture-as-information-warfare.html
+- Attribution Publication Sequence (Methodology then RECAP then Bar) | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/attribution-publication-sequence.html
+- Originating-Attorney Attribution Methodology | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/originating-attorney-attribution.html
+- Spoliation Is Historical Not Cured | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/spoliation-historical-not-cured.html
+- Forensic Complainant Filling Federal Vacuum | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/forensic-complainant-filling-vacuum.html
+- Surveillance-Legibility Preservation Discipline | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/surveillance-legibility-preservation.html
+- Claude-Parallel Labor Architecture | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/claude-parallel-labor-architecture.html
+- No-Facade Architecture Principle | Why Was My Bankruptcy Dismissed: https://whywasmybankruptcydismissed.com/methodology/no-facade-architecture.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
